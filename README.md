@@ -2,7 +2,10 @@
 
 <h4>I'm Mustapha, a Full-Stack JavaScript Developer living in Morocco. I'm passionate about creating robust and scalable web applications using the latest technologies.</h4>
 
-<h2>🛠️ Tech Stack</h2>
+<br />
+<br />
+
+### 🛠️ Tech Stack
 <div>
     <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-9cf?style=for-the-badge&logo=typescript" alt="Typescript">
@@ -20,8 +23,20 @@
     <img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb" alt="MongoDB">
 </div>
 
-<h2>🎓 Education</h2>
+<div>
+    <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=29f709&color=0f0f0f" />
+    <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=29f709&color=0f0f0f" />
+    <img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />
+</div>
+
+<br />
+<br />
+
+### 🎓 Education
 <p>I have a Bachelor's Degree in Multimedia and Web Technology from the Faculty of Science and Technology (FST) Settat, Morocco.</p>
+
+<br />
+<br />
 
 <h2>💼 Open-Source Projects</h2>
 <p>I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:</p>
@@ -29,18 +44,20 @@
 [Inviocify 2023 :](https://github.com/heymmusttech/invoicify) — .<br />
 [Spendify 2021 :](https://github.com/heymmusttech/spendify) — .
 
+<br />
+<br />
 
-<h2>📪 Contact Me</h2>
+
+### 📊 Github Stats
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=heymmusttech&count_private=true&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heymmusttech&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact)
+
+<br />
+<br />
+
+### 📪 Contact Me
 <p>If you're interested in working with me, or just want to chat, feel free to reach out to me at :<br />👉 hey.mmusttech@gmail.com</p>
-
-
-<h2>📊 Github Stats</h2>
-<a href='https://github.com/heymmusttech/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/heymmusttech/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/heymmusttech/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 <!---
 heymmusttech/heymmusttech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
