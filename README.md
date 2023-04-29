@@ -2,7 +2,7 @@
 
 <h4>I'm Mustapha, a Full-Stack JavaScript Developer living in Morocco. I'm passionate about creating robust and scalable web applications using the latest technologies.</h4>
 
-<h2>Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 <div>
     <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-9cf?style=for-the-badge&logo=typescript" alt="Typescript">
@@ -20,21 +20,27 @@
     <img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb" alt="MongoDB">
 </div>
 
-<h2>Education</h2>
+<h2>🎓 Education</h2>
 <p>I have a Bachelor's Degree in Multimedia and Web Technology from the Faculty of Science and Technology (FST) Settat, Morocco.</p>
 
-<h2>Open-Source Projects</h2>
+<h2>💼 Open-Source Projects</h2>
 <p>I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:</p>
 
 [Inviocify 2023 :](https://github.com/heymmusttech/invoicify) — .<br />
 [Spendify 2021 :](https://github.com/heymmusttech/spendify) — .
 
 
-<h2>Contact Me</h2>
+<h2>📪 Contact Me</h2>
 <p>If you're interested in working with me, or just want to chat, feel free to reach out to me at :<br />👉 hey.mmusttech@gmail.com</p>
 
 
+<h2>📊 Github Stats</h2>
+<a href='https://github.com/heymmusttech/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/heymmusttech/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/heymmusttech/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 
 <!---
 heymmusttech/heymmusttech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
