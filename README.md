@@ -6,18 +6,19 @@
     <li>
         Education /<br />
         <b><ins>Bachelor's Degree in Multimedia and Web Technology</ins></b><br />
-        from the <b><ins>Faculty of Science and Technology (FST) Settat, Morocco</ins></b>.
+        at <b><ins>Faculty of Science and Technology (FST) Settat, Morocco</ins></b>.
     </li>
     <br />
     <li>
         Open-Source Projects /<br />
         I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:<br />
-        <a href="https://github.com/heymmusttech/invoicify"><b><ins>Invoicify</ins></b><br /></a>
+        <a href="https://github.com/heymmusttech/invoicify"><b><ins>Invoicify /</ins></b></a>
+        <br />
+        <p></p>
         <div>
-            <a href="https://github.com/heymmusttech/invoicify"><b><ins>Live Demo</ins></b><br /></a>
-            <a href="https://invoicify-live.netlify.app/builder"><b><ins>Repo</ins></b><br /></a>
+            <a href="https://github.com/heymmusttech/invoicify">[Repo]</a>  
+            <a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>
         </div>
-        <!--https://invoicify-live.netlify.app/builder / https://github.com/heymmusttech/invoicify-->
     </li>
 </ul>
 <br />
