@@ -4,15 +4,6 @@
 <br />
 
 <div>
-    <h6>Education /</h6>
-    <b><ins>Bachelor's Degree in Multimedia and Web Technology</ins></b><br />
-    at <ins>Faculty of Science and Technology (FST) Settat, Morocco</ins>.
-</div>
-<br />
-<br />
-
-<!-- END SECTION-->
-<div>
     <h6>Open-Source Projects /</h6>
     I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:<br /><br />
     <div>
@@ -20,18 +11,29 @@
         <br />
         A mini web-application that provides to small businesses & freelancers to quickly generate professional PDF invoices online.
         <br />
-        <a href="https://github.com/heymmusttech/invoicify">[Repo]</a>  
+        <a href="https://github.com/heymmusttech/invoicify">[Repo]</a>
+        &nbsp;
         <a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>
     </div>
     <br />
     <div>
         <a href="https://github.com/heymmusttech/spendify"><b><ins>Spendify</ins></b></a>
         <br />
-        A easy-to-use web-application that provides to manage your daily purchase & keeps track expenses + incomes.
+        A web-application (tool) that provides to manage daily spending & purchases with tracking expenses & income.
         <br />
-        <a href="https://github.com/heymmusttech/spendify">[Repo]</a>  
+        <a href="https://github.com/heymmusttech/spendify">[Repo]</a>
+        &nbsp;
         <a href="https://spendify-live.vercel.app/">[Live Demo]</a>
     </div>
+</div>
+<br />
+<br />
+
+<!-- END SECTION-->
+<div>
+    <h6>Education /</h6>
+    <b>Bachelor's Degree in Multimedia and Web Technology</b><br />
+    at <ins>Faculty of Science and Technology (FST) Settat, Morocco</ins>.
 </div>
 <br />
 <br />
