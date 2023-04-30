@@ -1,10 +1,29 @@
-<h1>Hello, World! 👋</h1>
+<h1>Mustafa, a Moroccan Full-Stack JavaScript Developer.</h1>
 
-<h4>I'm Mustapha, a Full-Stack JavaScript Developer living in Morocco. I'm passionate about creating robust and scalable web applications using the latest technologies.</h4>
-
+<p>Hi there 👋! I'm Mustafa, a full-stack JavaScript developer with a passion for building robust and scalable web applications.<br />I specialize in utilizing modern JavaScript frameworks and libraries such as React and Node.js to create fast and efficient web apps. With my knowledge and experience, I'm confident in my ability to bring your ideas to life and deliver high-quality software solutions.</p>
+<br />
+<ul>
+    <li>
+        Education /<br />
+        <b><ins>Bachelor's Degree in Multimedia and Web Technology</ins></b><br />
+        from the <b><ins>Faculty of Science and Technology (FST) Settat, Morocco</ins></b>.
+    </li>
+    <br />
+    <li>
+        Open-Source Projects /<br />
+        I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:<br />
+        <a href="https://github.com/heymmusttech/invoicify"><b><ins>Invoicify</ins></b><br /></a>
+        <div>
+            <a href="https://github.com/heymmusttech/invoicify"><b><ins>Live Demo</ins></b><br /></a>
+            <a href="https://invoicify-live.netlify.app/builder"><b><ins>Repo</ins></b><br /></a>
+        </div>
+        <!--https://invoicify-live.netlify.app/builder / https://github.com/heymmusttech/invoicify-->
+    </li>
+</ul>
 <br />
 <br />
 
+<!-- END SECTION-->
 ### Skills
 ##### Programming Languages /
 <div>
@@ -68,36 +87,35 @@
 
 ##### Other /
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-
-
 <br />
 <br />
 
-### Education
-<p>I have a Bachelor's Degree in Multimedia and Web Technology from the Faculty of Science and Technology (FST) Settat, Morocco.</p>
-
+<!-- END SECTION-->
+<!--### Education
+<p></p>
 <br />
-<br />
+<br />-->
 
+<!-- END SECTION-->
+<!--
 ### Open-Source Projects
 <p>I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:</p>
 
 [Inviocify 2023 :](https://github.com/heymmusttech/invoicify) — .<br />
 [Spendify 2021 :](https://github.com/heymmusttech/spendify) — .
-
 <br />
 <br />
+-->
 
-
+<!-- END SECTION-->
 ### Github Status
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=heymmusttech&count_private=true&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heymmusttech&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact)
-
 <br />
 <br />
 
+<!-- END SECTION-->
 ### Contact
 <p>If you're interested in working with me, or just want to chat, feel free to reach out to me at :<br />👉 hey.mmusttech@gmail.com</p>
 
