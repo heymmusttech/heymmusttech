@@ -6,18 +6,28 @@
     <li>
         Education /<br />
         <b><ins>Bachelor's Degree in Multimedia and Web Technology</ins></b><br />
-        at <b><ins>Faculty of Science and Technology (FST) Settat, Morocco</ins></b>.
+        at <ins>Faculty of Science and Technology (FST) Settat, Morocco</ins>.
     </li>
     <br />
     <li>
         Open-Source Projects /<br />
-        I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:<br />
-        <a href="https://github.com/heymmusttech/invoicify"><b><ins>Invoicify /</ins></b></a>
-        <br />
-        <p></p>
+        I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:<br /><br />
         <div>
+            <a href="https://github.com/heymmusttech/invoicify"><b><ins>Invoicify</ins></b></a>
+            <br />
+            A mini web-application that provides to small businesses & freelancers to quickly generate professional PDF invoices online.
+            <br />
             <a href="https://github.com/heymmusttech/invoicify">[Repo]</a>  
             <a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>
+        </div>
+        <br />
+        <div>
+            <a href="https://github.com/heymmusttech/spendify"><b><ins>Spendify</ins></b></a>
+            <br />
+            A easy-to-use web-application that provides to manage your daily purchase & keeps track expenses + incomes.
+            <br />
+            <a href="https://github.com/heymmusttech/spendify">[Repo]</a>  
+            <a href="https://spendify-live.vercel.app/">[Live Demo]</a>
         </div>
     </li>
 </ul>
@@ -90,23 +100,6 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <br />
 <br />
-
-<!-- END SECTION-->
-<!--### Education
-<p></p>
-<br />
-<br />-->
-
-<!-- END SECTION-->
-<!--
-### Open-Source Projects
-<p>I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:</p>
-
-[Inviocify 2023 :](https://github.com/heymmusttech/invoicify) — .<br />
-[Spendify 2021 :](https://github.com/heymmusttech/spendify) — .
-<br />
-<br />
--->
 
 <!-- END SECTION-->
 ### Github Status
