@@ -1,6 +1,6 @@
-<h1>Mustafa, a Moroccan Full-Stack JavaScript Developer.</h1>
+<h1>Hello World 👋!</h1>
 
-<p>Hi there 👋! I'm Mustafa, a full-stack JavaScript developer with a passion for building robust and scalable web applications.<br />I specialize in utilizing modern JavaScript frameworks and libraries such as React and Node.js to create fast and efficient web apps. With my knowledge and experience, I'm confident in my ability to bring your ideas to life and deliver high-quality software solutions.</p>
+<p>I'm Mustafa a Moroccan Full-stack JavaScript Developer with a passion for building robust and scalable web applications.<br />I specialize in utilizing modern JavaScript frameworks and libraries such as React and Node.js to create fast and efficient web apps. With my knowledge and experience, I'm confident in my ability to bring your ideas to life and deliver high-quality software solutions.</p>
 <br />
 
 <div>
