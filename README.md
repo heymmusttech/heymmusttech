@@ -122,7 +122,7 @@
 
 ###### Github Status /
 ![Github Status](https://github-readme-stats.vercel.app/api?username=heymmusttech&count_private=true&show_icons=true&hide_border=false&border_color=7d859080&bg_color=0d111600&title_color=2f81f7&&text_color=C9D1D9&icon_color=2f81f7&layout=compact) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heymmusttech&count_private=true&hide_border=false&border_color=7d859080&bg_color=0d111600&title_color=2f81f7&&text_color=C9D1D9&icon_color=2f81f7&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heymmusttech&count_private=true&hide_border=false&border_color=7d859080&bg_color=0d111600&title_color=2f81f7&&text_color=C9D1D9&icon_color=2f81f7&layout=compact)-->
 
 
 <!---
