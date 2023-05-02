@@ -108,7 +108,7 @@
 
 <!-- END SECTION-->
 <div>
-    <h6>Contact /</h6>
+    <h6>Contact Me /</h6>
     <p>
         If you're interested in working with me, or just want to chat, feel free to reach out to me at :
         <br />
