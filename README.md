@@ -6,6 +6,7 @@
 <div>
     <h6>Open-Source Projects /</h6>
     I'm passionate about contributing to the open-source community, and here are a couple of my projects that you might find useful:<br /><br />
+    <!--
     <div>
         <a href="https://github.com/heymmusttech/invoicify"><b><ins>Invoicify</ins></b></a>
         <br />
@@ -13,8 +14,9 @@
         <br />
         <a href="https://github.com/heymmusttech/invoicify">[Repo]</a>
         &nbsp;
-        <!--<a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>-->
+        <a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>
     </div>
+    -->
     <br />
     <div>
         <a href="https://github.com/heymmusttech/spendify"><b><ins>Spendify</ins></b></a>
