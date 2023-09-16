@@ -13,7 +13,7 @@
         <br />
         <a href="https://github.com/heymmusttech/invoicify">[Repo]</a>
         &nbsp;
-        <a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>
+        <!--<a href="https://invoicify-live.netlify.app/builder">[Live Demo]</a>-->
     </div>
     <br />
     <div>
@@ -23,7 +23,7 @@
         <br />
         <a href="https://github.com/heymmusttech/spendify">[Repo]</a>
         &nbsp;
-        <a href="https://spendify-live.vercel.app/">[Live Demo]</a>
+        <!--<a href="https://spendify-live.vercel.app/">[Live Demo]</a>-->
     </div>
 </div>
 <br />
